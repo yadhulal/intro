@@ -1,30 +1,21 @@
-<h1 align="center">Hello , I'm Yadhu</h1>
-<h3 align="center">Diligent Experience Designer & Front End Developer </h3>
-<br>
 
-
-<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=yadhulal&show_icons=true&theme=radical"/>
-<br>
-
-👨🏻‍💻I’m currently learning **React.js**
-
-💬Lets Discuss **Web Designing**
-
-👽Fun fact **Minimalist**
 
 
 <br>
 
 <div>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> &nbsp;
- <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a>&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a> &nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> &nbsp;
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>&nbsp;
- <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>&nbsp;
- <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>&nbsp;
-  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> &nbsp;
-  <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp"width="40" height="40"> </a>      </p>
+ <P>
+<img src="./assets/icons/chatgpt.png" width="64" height="64" />
+  &nbsp;
+  <img src="./assets/icons/claude.png" width="64" height="64" />
+  &nbsp;
+  <img src="./assets/icons/gemini.png" width="64" height="64" />
+  &nbsp;
+  <img src="./assets/icons/copilot.png" width="64" height="64" />
+  &nbsp;
+  <img src="./assets/icons/deepseek.png" width="64" height="64" />
+  &nbsp;
+  <img src="./assets/icons/perplexity.png" width="64" height="64" />    </p>
 </div>
 
 <hr>
